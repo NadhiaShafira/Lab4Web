@@ -114,6 +114,12 @@ masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda deng
 
 **Penjelasan**
 
+```Langkah pertama membuat struktur dasar web dengan header, navigasi, dan hero agar tampilan atas rapi.
+Lalu bagian “main” diisi tiga box berbentuk lingkaran menggunakan CSS agar tampil sejajar di tengah.
+Setelah itu ditambahkan dua artikel dengan gambar 150x150 yang diatur posisi kiri dan kanan memakai float.
+Terakhir, ditambahkan sidebar dan footer sehingga halaman tampak lengkap seperti website sebenarnya.
+```
+
 ## Jawaban dari Pertanyaan dan Tugas
 
 **1. About**
@@ -122,9 +128,24 @@ masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda deng
 
 **Penjelasan**
 
+```Halaman ini dibuat untuk menampilkan informasi pribadi dan portofolio menggunakan struktur layout yang sama dengan halaman utama.
+Bagian kiri (main content) berisi teks “Tentang Saya” yang menjelaskan identitas, kegiatan, serta daftar portofolio berupa proyek atau karya yang sudah dibuat.
+Bagian kanan (sidebar) menampilkan kotak “Informasi Singkat” yang berisi nama, fakultas, dan program studi.
+CSS tetap memanfaatkan gaya dari layout utama agar desain halaman About terlihat seragam, dengan perbedaan hanya pada isi konten dan judul.
+Hasilnya, halaman ini menjadi profil sederhana yang memperkenalkan diri pengguna dalam tampilan web yang rapi dan profesional.
+```
+
 **2. Kontak**
 
 ![foto](https://github.com/NadhiaShafira/Lab4Web/blob/e0fd3fc900f7561c74a147d274891ec2639530a6/Gambar%2013.jpg)
+
+**Penjelasan**
+
+```Halaman ini berfungsi untuk memberikan form agar pengunjung bisa mengirim pesan melalui kolom Nama, Email, dan Pesan.
+Di sebelah kanan ada sidebar “Info Kontak” yang menampilkan email, akun media sosial, dan informasi universitas.
+Form dibuat menggunakan tag <form> dan <input> agar pengguna dapat mengisi data, sedangkan tombol “Kirim Pesan” memakai elemen <button>.
+Semua elemen diatur dengan CSS supaya tampilan form terlihat rapi, seimbang dengan sidebar, dan tetap konsisten dengan desain halaman lainnya.
+```
 
 
 

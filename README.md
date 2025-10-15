@@ -49,5 +49,12 @@ Lalu tulis struktur dasar layout menggunakan elemen semantik HTML5 seperti <head
 ```Menambahkan elemen <nav> berisi link menu dan memberi CSS background biru agar terlihat sebagai navigasi utama.
 Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahkan kursor.
 ```
+
 ## Gambar 7
-![foto]
+![foto](https://github.com/NadhiaShafira/Lab4Web/blob/7ec30e7d5dec02525fd3dfe934d83f931c0184c0/Gambar%207.jpg) 
+
+**Penjelasan**
+
+```Bagian ini menambahkan elemen <section id="hero"> berisi judul “Hello World!” dan teks deskripsi sebagai banner utama.
+CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembuka di halaman web.
+```

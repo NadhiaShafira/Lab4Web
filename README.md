@@ -69,3 +69,13 @@ CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembu
 ```Bagian ini menambahkan elemen <aside> berisi kotak widget seperti daftar link dan teks tambahan di sisi kanan halaman.
 CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget supaya tampil rapi dan terpisah.
 ```
+
+## Gambar 9
+
+![foto](https://github.com/NadhiaShafira/Lab4Web/blob/112c86641a3f08d7a82c0e284faa6aad05b05247/Gambar%209.jpg)
+
+**Penjelasan**
+
+```Tampilan pada gambar menunjukkan hasil langkah membuat sidebar dan footer pada layout web.
+Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan Widget Text) menggunakan CSS untuk memberi warna biru pada judul dan garis pembatas, sedangkan bagian bawah halaman ditutup dengan footer berwarna hitam yang menampilkan teks hak cipta “© 2021 - Universitas Pelita Bangsa.”
+```

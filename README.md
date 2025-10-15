@@ -9,6 +9,7 @@
 **Matkul          : Pemograman Mobile 1**
 
 # Gambar 1
+
 ![foto](https://github.com/NadhiaShafira/Lab4Web/blob/957526e47fa6153081eadd3a1b664209165ba2c6/Gambar%201%20.jpg) 
 
 # Gambar 2
@@ -16,10 +17,12 @@
 ![foto](https://github.com/NadhiaShafira/Lab4Web/blob/6bafffe2fedde8ff1c29221ce4f646fd144c9f76/Gambar%202.jpg) 
 
 **Penjelasan**
+
 ```
 - Membuat file lab4_box.html untuk menampilkan konsep Box Element dengan struktur HTML dasar.
 
 - Menambahkan tiga <div> berwarna menggunakan CSS dengan float:left agar kotak-kotak sejajar ke samping.
+
 ```
 
 # Gambar 3 
@@ -28,16 +31,21 @@
 
 **Penjelasan**
 
-```Kotak biru dibuat dengan menambahkan <div class="div4"> agar muncul setelah tiga box sebelumnya.
+```
+Kotak biru dibuat dengan menambahkan <div class="div4"> agar muncul setelah tiga box sebelumnya.
 Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak sejajar dengan box lain yang di-float.
+
 ```
 # Gambar 5
 
 ![foto](https://github.com/NadhiaShafira/Lab4Web/blob/30c83060de16018ff482fe27a68d25e9c7002711/Gambar%205.jpg) 
 
 **Penjelasan**
-``` Pertama, buat folder baru lab4_layout lalu tambahkan file home.html dan style.css.
+
+```
+Pertama, buat folder baru lab4_layout lalu tambahkan file home.html dan style.css.
 Lalu tulis struktur dasar layout menggunakan elemen semantik HTML5 seperti <header>, <nav>, <section>, <aside>, dan <footer> untuk membentuk kerangka web sederhana.
+
 ```
 
 ## Gambar 6
@@ -46,8 +54,10 @@ Lalu tulis struktur dasar layout menggunakan elemen semantik HTML5 seperti <head
 
 **Penjelasan**
 
-```Menambahkan elemen <nav> berisi link menu dan memberi CSS background biru agar terlihat sebagai navigasi utama.
+```
+Menambahkan elemen <nav> berisi link menu dan memberi CSS background biru agar terlihat sebagai navigasi utama.
 Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahkan kursor.
+
 ```
 
 ## Gambar 7
@@ -56,8 +66,10 @@ Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahka
 
 **Penjelasan**
 
-```Bagian ini menambahkan elemen <section id="hero"> berisi judul “Hello World!” dan teks deskripsi sebagai banner utama.
+```
+Bagian ini menambahkan elemen <section id="hero"> berisi judul “Hello World!” dan teks deskripsi sebagai banner utama.
 CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembuka di halaman web.
+
 ```
 
 ## Gambar 8
@@ -66,8 +78,10 @@ CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembu
 
 **Penjelasan**
 
-```Bagian ini menambahkan elemen <aside> berisi kotak widget seperti daftar link dan teks tambahan di sisi kanan halaman.
+```
+Bagian ini menambahkan elemen <aside> berisi kotak widget seperti daftar link dan teks tambahan di sisi kanan halaman.
 CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget supaya tampil rapi dan terpisah.
+
 ```
 
 ## Gambar 9
@@ -76,8 +90,10 @@ CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget su
 
 **Penjelasan**
 
-```Tampilan pada gambar menunjukkan hasil langkah membuat sidebar dan footer pada layout web.
+```
+Tampilan pada gambar menunjukkan hasil langkah membuat sidebar dan footer pada layout web.
 Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan Widget Text) menggunakan CSS untuk memberi warna biru pada judul dan garis pembatas, sedangkan bagian bawah halaman ditutup dengan footer berwarna hitam yang menampilkan teks hak cipta “© 2021 - Universitas Pelita Bangsa.”
+
 ```
 
 ## Gambar 10
@@ -86,8 +102,10 @@ Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan 
 
 **Penjelasan**
 
-```Gambar tersebut menampilkan hasil langkah membuat tiga box fitur utama di bagian tengah halaman menggunakan tag <dif class= "box"> 
+```
+Gambar tersebut menampilkan hasil langkah membuat tiga box fitur utama di bagian tengah halaman menggunakan tag <dif class= "box"> 
 masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda dengan judul serta tombol "view detail" yang di atur menggunakan CSS agar sejajar dan rapi.
+
 ```
 
 ## Gambar 11

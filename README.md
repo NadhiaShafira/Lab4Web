@@ -86,6 +86,9 @@ Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan 
 
 **Penjelasan**
 
+```Gambar tersebut menampilkan hasil langkah membuat tiga box fitur utama di bagian tengah halaman menggunakan tag <dif class= "box"> 
+masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda dengan judul serta tombol "view detail" yang di atur menggunakan CSS agar sejajar dan rapi.
+```
 
 ## Gambar 11
 

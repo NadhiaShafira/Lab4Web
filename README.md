@@ -88,6 +88,7 @@ Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan 
 ```
 
 ## Gambar 11
-![foto](
+
+![foto](https://github.com/NadhiaShafira/Lab4Web/blob/2adfbdf7d1e0ee1ac32d83f5934cb4d1bcc450e9/Gambar%2011.jpg) 
 
 

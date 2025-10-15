@@ -95,6 +95,10 @@ Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan 
 
 ## Jawaban dari Pertanyaan dan Tugas
 
-1. 
+1. ![foto](https://github.com/NadhiaShafira/Lab4Web/blob/06b4b177ecb11d1a8c83f053ab22fa0460e0e183/Gambar%2012.jpg)
+
+**Penjelasan**
+
+2. ![foto](
 
 

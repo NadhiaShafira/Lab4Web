@@ -21,3 +21,13 @@
 
 - Menambahkan tiga <div> berwarna menggunakan CSS dengan float:left agar kotak-kotak sejajar ke samping.
 
+# Gambar 3 
+
+![foto](https://github.com/NadhiaShafira/Lab4Web/blob/68d50924ff8a0d69f57a1ed2281cae8676b711ce/Gambar%203.jpg) 
+
+**Penjelasan**
+
+```Kotak biru dibuat dengan menambahkan <div class="div4"> agar muncul setelah tiga box sebelumnya.
+Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak sejajar dengan box lain yang di-float.
+```
+

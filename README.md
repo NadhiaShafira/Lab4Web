@@ -31,4 +31,15 @@
 ```Kotak biru dibuat dengan menambahkan <div class="div4"> agar muncul setelah tiga box sebelumnya.
 Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak sejajar dengan box lain yang di-float.
 ```
+# Gambar 5
+
+![foto](https://github.com/NadhiaShafira/Lab4Web/blob/30c83060de16018ff482fe27a68d25e9c7002711/Gambar%205.jpg) 
+
+**Penjelasan**
+``` Pertama, buat folder baru lab4_layout lalu tambahkan file home.html dan style.css.
+Lalu tulis struktur dasar layout menggunakan elemen semantik HTML5 seperti <header>, <nav>, <section>, <aside>, dan <footer> untuk membentuk kerangka web sederhana.
+```
+
+## Gambar 6
+
 
